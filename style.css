@@ -30,7 +30,7 @@ td {
   border-right: none;
 }
 .finish {
-  background-image: url('/images/finish.png');
+  background-image: url("images/finish.png");
   background-size: cover;
   border: 1px solid #000;
 }
