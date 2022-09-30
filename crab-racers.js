@@ -51,6 +51,7 @@ document.addEventListener('keydown', (e) => {
     toggleActiveClass(keyPressed);
     racerAdvance(keyPressed);
     toggleActiveClass(keyPressed);
+    console.log(playerPosition1)
   }
 });
 
